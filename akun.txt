@@ -1,0 +1,11 @@
+LOGIN MASYARAKAT
+USERNAME : masyarakat
+PASSWORD : masyarakat
+======================
+LOGIN ADMIN
+USERNAME : admin
+PASSWORD : admin
+=====================
+LOGIN PETUGAS 
+USERNAME : petugas
+PASSWORD : petugas
